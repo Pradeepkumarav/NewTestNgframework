@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test name="Test">
+	  <parameter name = "browser" value="chrome"/>
+    <classes>
+		<class name="MercurytoursTestscenerios.Mercury__TC1_register"/>
+		<class name="MercurytoursTestscenerios.Mercury_TC2_Login"/>
+       <class name="MercurytoursTestscenerios.Mercury_TC3_flightbooking"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

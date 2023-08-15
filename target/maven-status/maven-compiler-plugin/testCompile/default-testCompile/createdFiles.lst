@@ -1,0 +1,10 @@
+mercurytours_pageobjects\Mercurytours_register.class
+MercurytoursTestscenerios\Mercury_TC3_flightbooking.class
+Reusable\Reausablesteps.class
+MercurytoursTestscenerios\Mercury_TC2_Login.class
+mercurytours_pageobjects\Mercurytours_flightbooking.class
+mercurytours_pageobjects\Mercurytourpage_login.class
+MercurytoursTestscenerios\baseclass.class
+mercurytour_utilities\Readtestdata.class
+MercurytoursTestscenerios\Mercury__TC1_register.class
+mercurytour_utilities\Readconfig.class

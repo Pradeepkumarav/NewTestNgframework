@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-06T15:18:16 IST" name="Suite" finished-at="2023-08-06T15:18:53 IST" duration-ms="36803">
+    <groups>
+    </groups>
+    <test started-at="2023-08-06T15:18:16 IST" name="Test" finished-at="2023-08-06T15:18:53 IST" duration-ms="36803">
+      <class name="MercurytoursTestscenerios.Mercury_TC2_Login">
+        <test-method signature="Loginpage()[pri:0, instance:MercurytoursTestscenerios.Mercury_TC2_Login@3cff0139]" started-at="2023-08-06T15:18:27 IST" name="Loginpage" finished-at="2023-08-06T15:18:47 IST" duration-ms="19949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginpage -->
+      </class> <!-- MercurytoursTestscenerios.Mercury_TC2_Login -->
+      <class name="MercurytoursTestscenerios.Mercury__TC1_register">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:MercurytoursTestscenerios.Mercury__TC1_register@5ae95707]" started-at="2023-08-06T15:18:15 IST" name="BeforeSuite" finished-at="2023-08-06T15:18:16 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="name(java.lang.String)[pri:0, instance:MercurytoursTestscenerios.Mercury__TC1_register@5ae95707]" started-at="2023-08-06T15:18:16 IST" name="name" finished-at="2023-08-06T15:18:21 IST" duration-ms="5353" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method signature="register()[pri:0, instance:MercurytoursTestscenerios.Mercury__TC1_register@5ae95707]" started-at="2023-08-06T15:18:21 IST" name="register" finished-at="2023-08-06T15:18:27 IST" duration-ms="5678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:MercurytoursTestscenerios.Mercury__TC1_register@5ae95707]" started-at="2023-08-06T15:18:53 IST" name="AfterSuite" finished-at="2023-08-06T15:18:53 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- MercurytoursTestscenerios.Mercury__TC1_register -->
+      <class name="MercurytoursTestscenerios.Mercury_TC3_flightbooking">
+        <test-method signature="flightbooking()[pri:0, instance:MercurytoursTestscenerios.Mercury_TC3_flightbooking@f096f37]" started-at="2023-08-06T15:18:47 IST" name="flightbooking" finished-at="2023-08-06T15:18:53 IST" duration-ms="5771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightbooking -->
+      </class> <!-- MercurytoursTestscenerios.Mercury_TC3_flightbooking -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
