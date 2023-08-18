@@ -12,5 +12,6 @@ Hii
         System.out.println("cars buy");
 	System.out.println("cars buy");
 	System.out.println("bike buy");
+	System.out.println("home buy");
 }
 }
