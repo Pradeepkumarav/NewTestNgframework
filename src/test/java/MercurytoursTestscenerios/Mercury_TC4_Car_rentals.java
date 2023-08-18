@@ -10,5 +10,6 @@ public class Mercury_TC4_Car_rentals {
 	public void Carrentals(){
 	System.out.println("car rentals");
         System.out.println("cars buy");
+	System.out.println("cars buy");
 }
 }
