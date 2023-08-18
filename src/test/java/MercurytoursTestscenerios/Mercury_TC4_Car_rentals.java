@@ -10,5 +10,6 @@ Hii
 	public void Carrentals(){
 	System.out.println("car rentals");
         System.out.println("cars buy");
+	System.out.println("cars buy");
 }
 }
